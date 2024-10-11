@@ -107,16 +107,6 @@ Access Winku at `http://127.0.0.1:8000` in your browser.
 - **Storage**: AWS S3 / Local Storage
 - **Task Scheduling**: Laravel Queues and Scheduler
 
-## Contributing
-
-We welcome contributions from the community! Here's how you can get involved:
-
-1. Fork the repository.
-2. Create a new feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m "Add some feature"`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
 ## License
 
 Winku is open-sourced software licensed under the [MIT license](LICENSE).
