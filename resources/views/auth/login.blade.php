@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-    <title>Winku Social Network Toolkit</title>
+    <title>Winku Social Network</title>
     <link rel="icon" href="{{ asset('images/fav.png') }}" type="image/png" sizes="16x16">
 
     <link rel="stylesheet" href="{{ asset('css/main.min.css') }}">

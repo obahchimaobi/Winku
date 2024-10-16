@@ -1,5 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
-<img src="public/name.png">
+
 
 </p>
 
@@ -31,12 +31,12 @@
 <a href=""><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
 </p>
 
-
-Here's a draft README for your social networking platform **Winku**:
-
 ---
 
 # 🌍 Winku - Social Networking Platform
+
+<img src="public/winku1.png">
+<img src="public/winku2.png">
 
 Winku is a feature-rich social networking platform designed to bring people together, share moments, and build communities. With an intuitive interface, users can connect, communicate, and engage with one another in real-time.
 
