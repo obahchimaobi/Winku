@@ -35,8 +35,8 @@
 
 # 🌍 Winku - Social Networking Platform
 
-<img src="public/winku1.png">
-<img src="public/winku2.png">
+<img src="public/images/winku1.png">
+<img src="public/images/winku2.png">
 
 Winku is a feature-rich social networking platform designed to bring people together, share moments, and build communities. With an intuitive interface, users can connect, communicate, and engage with one another in real-time.
 
