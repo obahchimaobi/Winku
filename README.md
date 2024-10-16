@@ -33,7 +33,7 @@
 
 ---
 
-# 🌍 Winku - Social Networking Platform
+# 🌍 Winku - Social Networking Platform (In Development!!)
 
 <img src="public/images/winku1.png">
 <img src="public/images/winku2.png">
